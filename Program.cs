@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace zd1_kamaev
+namespace Rudzeris_1
 {
     static class Program
     {

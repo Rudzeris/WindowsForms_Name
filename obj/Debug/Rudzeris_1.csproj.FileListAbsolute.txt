@@ -1,0 +1,11 @@
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.exe.config
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.exe
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.pdb
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.csproj.AssemblyReference.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.csproj.SuggestedBindingRedirects.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.Form1.resources
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.Properties.Resources.resources
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.csproj.GenerateResource.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.csproj.CoreCompileInputs.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.exe
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.pdb

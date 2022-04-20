@@ -9,3 +9,14 @@ D:\Programming\P1\obj\Debug\Rudzeris.csproj.GenerateResource.cache
 D:\Programming\P1\obj\Debug\Rudzeris.csproj.CoreCompileInputs.cache
 D:\Programming\P1\obj\Debug\zd1_kamaev.exe
 D:\Programming\P1\obj\Debug\zd1_kamaev.pdb
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris.csproj.AssemblyReference.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris.csproj.SuggestedBindingRedirects.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris.csproj.GenerateResource.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris.csproj.CoreCompileInputs.cache
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.Form1.resources
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.exe.config
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.exe
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\bin\Debug\Rudzeris_1.pdb
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.Properties.Resources.resources
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.exe
+D:\Пользователи\Rudzeris\Projects\WindowsForms_Name\obj\Debug\Rudzeris_1.pdb

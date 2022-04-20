@@ -1,4 +1,4 @@
-﻿namespace zd1_kamaev
+﻿namespace Rudzeris_1
 {
     partial class Form1
     {
