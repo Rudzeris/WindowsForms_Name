@@ -1,0 +1,11 @@
+D:\Programming\P1\bin\Debug\zd1_kamaev.exe.config
+D:\Programming\P1\bin\Debug\zd1_kamaev.exe
+D:\Programming\P1\bin\Debug\zd1_kamaev.pdb
+D:\Programming\P1\obj\Debug\Rudzeris.csproj.AssemblyReference.cache
+D:\Programming\P1\obj\Debug\Rudzeris.csproj.SuggestedBindingRedirects.cache
+D:\Programming\P1\obj\Debug\zd1_kamaev.Form1.resources
+D:\Programming\P1\obj\Debug\zd1_kamaev.Properties.Resources.resources
+D:\Programming\P1\obj\Debug\Rudzeris.csproj.GenerateResource.cache
+D:\Programming\P1\obj\Debug\Rudzeris.csproj.CoreCompileInputs.cache
+D:\Programming\P1\obj\Debug\zd1_kamaev.exe
+D:\Programming\P1\obj\Debug\zd1_kamaev.pdb
